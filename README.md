@@ -11,6 +11,3 @@ uvicorn main:app --reload
 Then visit: http://127.0.0.1:8000/ask?q=hello
 
 
-
-I change some stuff on the feature branch fuck yeaaah
-
