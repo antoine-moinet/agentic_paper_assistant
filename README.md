@@ -1,6 +1,6 @@
 # Agentic Paper Assistant
 
-This is a simple FastAPI project that exposes an endpoint `/ask?q=your_query` which returns an answer from a mocked `answer_query` function.
+This is a simple FastAPI project that exposes an endpoint `/ask?q=your_query` which returns an augmented answer from an openAI model.
 
 ## Running the server
 
